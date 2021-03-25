@@ -1,73 +1,52 @@
-# tic-tac-toe-game
-This is the implementation of the popular TIC-TAC-TOE Game created using the Ruby programming Language
+# Tic-Tac-Toe
+> This is an implementation of the popular Tic-Tac-Toe Game created in the Ruby programming Language.
 
-The first milestone is to create the necessary files and folders and make the file executable
 
-Built With:
+## Built With:
 
-- Ruby
-- VS Code
-- Ubuntu
-- Rubocop linter
+* Ruby
+* Rubocop linter
+* RSpec
+
 
 ## Getting Started
 
 To get your own copy of our project simply clone the repository to your local machine.
 
-Step 1: Type the following command into a git shell
+Step 1: Type the following command line to obtain a copy of this repo:
 
-git clone https://github.com/charlyeneh/tic-tac-toe-game
+      git clone git@github.com:German-Cobian/Tic-Tac-Toe.git
 
-Step 2: Direct a terminal into the cloned repository directory
+Step 2: Direct the terminal into the cloned repository directory:
 
-cd tic-tac-toe-game
+      cd Tic-Tac-Toe
 
-Step 3: Run the program from command line
+Step 3: Run the program from command line following the prompts it supplies.
 
-Step 4: Run main.rb from your terminal to display "Hello World!".
 
 ## Authors
 
 👤 **German Cobian**
-- GitHub: [@German-Cobian](https://github.com/German-Cobian)
-- Twitter: [@German-Cobian](https://twitter.com/GermanCobian3)
+* GitHub: [@German-Cobian](https://github.com/German-Cobian)
+* Twitter: [@German-Cobian3](https://twitter.com/GermanCobian3)
+* LinkedIn: [@german-cobian](https://www.linkedin.com/in/german-cobian)
 
 👤 **Eneh Charles Chukwunweike**
 
-- GitHub: [@charlyeneh](https://github.com/charlyeneh)
-- Twitter: [@twitterhandle](https://twitter.com/ProgrammerBaby?s=09)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/charles-chukwunweike-eneh-5345a2147)
+* GitHub: [@charlyeneh](https://github.com/charlyeneh)
+* Twitter: [@ProgrammerBaby?s=09](https://twitter.com/ProgrammerBaby?s=09)
+* LinkedIn: [@charles-chukwunweike-eneh-5345a2147](https://www.linkedin.com/in/charles-chukwunweike-eneh-5345a2147)
+
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
+
 ## 📝 License
-
-MIT License
-
-Copyright (c) 2021 German Cobian and Eneh Charles Chukwunweike 
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-=======
-
+This project is [MIT](https://github.com/German-Cobian/Tic-Tac-Toe/blob/main/LICENSE) licensed.

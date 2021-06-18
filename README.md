@@ -62,6 +62,7 @@ Draw condition
       rspec-mocks 3.10.2
       rspec-support 3.10.2
 * The rspec gem comes packed with all you need to get started including the 5 gems listed above.
+* Change branch of the repository by running `git checkout game_tests`
 * Navigate into the `AdvancedBuildingBlocks-Enumerables` folder by running `cd AdvancedBuildingBlocks-Enumerables`
 * Run the following command to initialize Rspec: `rspec --init`
 * This generates a /spec folder and a .rspec file at the root of your project.

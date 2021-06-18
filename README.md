@@ -53,17 +53,18 @@ Draw condition
 
 
 ### How to get Rspec Running
-* Run the following command in the terminal: `gem install rspec`
-* This command installs Rspec on your computer. You ensure that Rspec is installed by running the following command to see the installed version: `rspec --version`
+* Run `gem install rspec` in the terminal. This command installs Rspec on your computer 
+* Ensure that RSpec is installed by running `rspec --version` which lists the installed version
 * You should get output similar to the following:
+  ```
     RSpec 3.10
       rspec-core 3.10.1
       rspec-expectations 3.10.1
       rspec-mocks 3.10.2
       rspec-support 3.10.2
-* The rspec gem comes packed with all you need to get started including the 5 gems listed above.
-* Run the following command to initialize Rspec: `rspec --init`
-* This generates a /spec folder and a .rspec file at the root of your project.
+    ```
+* The rspec gem comes packed with all you need to get started including the 5 gems listed above
+* Run the following command to initialize Rspec: `rspec --init` This generates a /spec folder and a .rspec file at the root of your project
 * Change branch of the repository by running `git checkout game_tests`
 * Finally, to run the tests, simply run `rspec`
 

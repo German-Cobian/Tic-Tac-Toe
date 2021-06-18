@@ -94,10 +94,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgements
 
-Guidelines for project supplied by the [Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/tic-tac-toe)
+Guidelines for project supplied by [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/tic-tac-toe)
 
 
 ## 📝 License
 
 This project is [MIT](https://github.com/German-Cobian/New-York-Times-Page-Clone/blob/main/LICENSE) licensed.
-=======

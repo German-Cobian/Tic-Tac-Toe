@@ -2,9 +2,12 @@
 
 # Tic-Tac-Toe
 
-This is the implementation of the popular TIC-TAC-TOE Game created using the Ruby programming Language
+This is an implementation of the popular TIC-TAC-TOE Game created using the Ruby programming Language
+
+![Tic-tac-toe](https://user-images.githubusercontent.com/68709712/122489322-408ca280-cf94-11eb-8c23-2a7482241f08.png)
 
 Game Rules
+
 * Each player is going to choose a number out of 9 positions.
 * First player should enter his name and press enter.
 * Second player should enter his name and press enter.
@@ -13,22 +16,23 @@ Game Rules
 * The game will check if the chosen number is valid or not valid.
 * If it's not valid (i.e already taken number or not of the game positions - from 1 to 9 ) it will ask for another input.
 * If it's valid it will display the board with the chosen position replaced by the symbol of the player [X, O].
-* Then it will ask the next player to take turn.
+* Then it will ask the next player to take a turn.
 * It will repeate the same for the second player.
-* The game continues till it reaches either winning or draw conditions.
+* The game continues until it reaches either a winning or a draw condition.
 
 Winning conditions
-We have 8 winning conditions...
+There are 8 winning conditions...
 
-* First three, to have occupied a full row with the same symbol [X, O]
-* Second three, to have occupied a column with same symbol [X, O]
-* Last two, to have occupied a full diagonal with same symbol [X, O]
+* First three: to have occupied a full row with the same symbol [X, O]
+* Second three: to have occupied a column with same symbol [X, O]
+* Last two: to have occupied a full diagonal with same symbol [X, O]
 
 Draw condition
-* If 9 movements made with no winner then the game is a draw.
+
+* If 9 movements are made with no winner then the game is a draw.
 
 
-## Built With:
+## Built With
 
 * Ruby
 * RSpec
@@ -36,7 +40,7 @@ Draw condition
 
 ## Getting Started
 
-To get your own copy of our project simply clone the repository to your local machine.
+To run this program on your local machine, simply follow the steps below:
 
 * Clone this repo on your local machine by running `git clone https://github.com/German-Cobian/Tic-Tac-Toe`
 * `cd` into the `Tic-Tac-Toe` folder
@@ -51,20 +55,19 @@ This project is tested with RSpec which is a computer domain-specific language (
 ![screenshot](images/testing.png)
 
 
-### How to get Rspec Running 
-
-* Run the following command in the terminal `gem install rspec` This command installs Rspec on your computer.
-* Ensure that Rspec is installed by running the following command to see the installed version `rspec --version`
+### How to get Rspec Running
+* Run `gem install rspec` in the terminal. This command installs Rspec on your computer 
+* Ensure that RSpec is installed by running `rspec --version` which lists the installed version
 * You should get output similar to the following:
   ```
-  RSpec 3.10
-    - rspec-core 3.10.1
-    - rspec-expectations 3.10.1
-    - rspec-mocks 3.10.2
-    - rspec-support 3.10.2
-  ```
-* The rspec gem comes packed with all we need to get started including the 5 gems listed above.
-* Run the following command to initialize RSpec `rspec --init` This generates a /spec folder and a .rspec file at the root of your project
+    RSpec 3.10
+      rspec-core 3.10.1
+      rspec-expectations 3.10.1
+      rspec-mocks 3.10.2
+      rspec-support 3.10.2
+    ```
+* The rspec gem comes packed with all you need to get started including the 5 gems listed above
+* Run the following command to initialize Rspec: `rspec --init` This generates a /spec folder and a .rspec file at the root of your project
 * Finally, to run the tests, simply run `rspec`
 
 
@@ -82,7 +85,7 @@ This project is tested with RSpec which is a computer domain-specific language (
 * Twitter: [@German-Cobian1](https://twitter.com/GermanCobian1)
 * LinkedIn: [@german-cobian](https://linkedin.com/german-cobian)
 
-👤 **Charles Chukwunweike Eneh*
+👤 **Charles Chukwunweike Eneh**
 * GitHub: [@charlyeneh](https://github.com/charlyeneh)
 * Twitter: [@twitterhandle](https://twitter.com/ProgrammerBaby?s=09)
 * LinkedIn: [LinkedIn](https://www.linkedin.com/in/charles-chukwunweike-eneh-5345a2147)

@@ -38,7 +38,7 @@ Draw condition
 
 To get your own copy of our project simply clone the repository to your local machine.
 
-* Clone this repo on your local machine by running `git clone https://github.com/German-Cobian/Tic-Tac-Toe`
+* Clone this repo on your local machine by running `git clone git@github.com:German-Cobian/Tic-Tac-Toe.git`
 * `cd` into the `Tic-Tac-Toe` folder
 * Run `ruby main.rb`
 * Run the program from command line following the prompts it supplies

@@ -69,9 +69,10 @@ while i < 9
     puts "#{up_next.name} wins this round!"
     puts
     i = 9
+  else
+    puts
+    puts 'Game is over and there is no winner!' if board.draw?
+    puts
   end
-  puts
-  puts 'Game is over and there is no winner!' if board.draw?
-  puts
   i += 1
 end

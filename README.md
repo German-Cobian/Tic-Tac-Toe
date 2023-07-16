@@ -38,24 +38,29 @@ Draw condition
 * RSpec
 
 
+## Video Demo
+
+https://www.loom.com/share/8164eae2131c45b8be568bc3511e2193
+
+
 ## Getting Started
+
+
+* Navigate to the project's directory using the `cd` command
 
 To run this program on your local machine, simply follow the steps below:
 
-* Clone this repo on your local machine by running `git clone https://github.com/German-Cobian/Tic-Tac-Toe`
+* Open your terminal - Windows: `Win + R`, then type `cmd` | Mac: `Command + space`, then type `Terminal`
+* Navigate to a directory of your choosing using the `cd` command
+* Run this command in your OS terminal: `git clone https://github.com/German-Cobian/Tic-Tac-Toe` to clone this repo in your local machine
 * `cd` into the `Tic-Tac-Toe` folder
-* Run `ruby main.rb`
-* Run the program from command line following the prompts it supplies
+* Run `ruby bin/main.rb` and play the game from command line following the prompts it supplies
 
 
 ## Testing with RSpec 
 
-This project is tested with RSpec which is a computer domain-specific language (DSL) testing tool written in the Ruby programming language.
+This project is tested with RSpec which is a computer domain-specific language (DSL) testing tool written in the Ruby programming language. To get Rspec running do the following:
 
-![screenshot](images/testing.png)
-
-
-### How to get Rspec Running
 * Run `gem install rspec` in the terminal. This command installs Rspec on your computer 
 * Ensure that RSpec is installed by running `rspec --version` which lists the installed version
 * You should get output similar to the following:
@@ -95,6 +100,8 @@ This project is tested with RSpec which is a computer domain-specific language (
 
 Contributions, issues, and feature requests are welcome!
 
+Feel free to check the [issues page](https://github.com/German-Cobian/Tic-Tac-Toe/issues)
+
 
 ## Show your support
  
@@ -108,4 +115,4 @@ Guidelines for this project provided by [The Odin Project](https://www.theodinpr
 
 ## 📝 License
 
-This project is [MIT](https://github.com/German-Cobian/New-York-Times-Page-Clone/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/German-Cobian/Tic-Tac-Toe/blob/Development/LICENSE) licensed.
